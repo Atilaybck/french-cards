@@ -1,0 +1,17 @@
+[
+  { "de": "la maison", "tr": "Ev", "oku": "la mezon" },
+  { "de": "aller", "tr": "Gitmek", "oku": "alii" },
+  { "de": "le chien", "tr": "Köpek", "oku": "lö şiyan" },
+  { "de": "le pain", "tr": "Ekmek", "oku": "lö pean" },
+  { "de": "le chat", "tr": "Kedi", "oku": "lö şa" },
+  { "de": "l’eau", "tr": "Su", "oku": "lu" },
+  { "de": "le livre", "tr": "Kitap", "oku": "lü livr" },
+  { "de": "la voiture", "tr": "Araba", "oku": "la vuatyür" },
+  { "de": "la porte", "tr": "Kapı", "oku": "la port" },
+  { "de": "la chaise", "tr": "Sandalye", "oku": "la şez" },
+  { "de": "le lit", "tr": "Yatak", "oku": "lö li" },
+  { "de": "le travail", "tr": "İş", "oku": "lö travaey" },
+  { "de": "manger", "tr": "Yemek yemek", "oku": "monji" },
+  { "de": "boire", "tr": "İçmek", "oku": "bvar" },
+  { "de": "le matin", "tr": "Sabah", "oku": "lö matan" }
+]
