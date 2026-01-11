@@ -1,12 +1,17 @@
 [
-  { "de": "le soir", "tr": "Akşam", "oku": "lö suar" },
-  { "de": "le jour", "tr": "Gün", "oku": "lö jur" },
-  { "de": "la nuit", "tr": "Gece", "oku": "la nüi" },
-  { "de": "aimer", "tr": "Sevmek", "oku": "eme" },
-  { "de": "voir", "tr": "Görmek", "oku": "vuar" },
-  { "de": "le soleil", "tr": "Güneş", "oku": "lö soleyl" },
-  { "de": "la pluie", "tr": "Yağmur", "oku": "la plüi" },
-  { "de": "le temps", "tr": "Hava / zaman", "oku": "lö tan" },
-  { "de": "petite", "tr": "Küçük", "oku": "peti" },
-  { "de": "grande", "tr": "Büyük", "oku": "gran" }
+  { "fr": "le soir", "tr": "akşam", "oku": "lö suar" },
+  { "fr": "le jour", "tr": "gün", "oku": "lö jur" },
+  { "fr": "la nuit", "tr": "gece", "oku": "la nüi" },
+  { "fr": "aimer", "tr": "sevmek", "oku": "eme" },
+  { "fr": "voir", "tr": "görmek", "oku": "vuar" },
+  { "fr": "le soleil", "tr": "güneş", "oku": "lö soleyl" },
+  { "fr": "la pluie", "tr": "yağmur", "oku": "la plüi" },
+  { "fr": "le temps", "tr": "hava / zaman", "oku": "lö tan" },
+  { "fr": "petit(e)", "tr": "küçük", "oku": "peti" },
+  { "fr": "grand(e)", "tr": "büyük", "oku": "gran" },
+  { "fr": "l’homme", "tr": "adam", "oku": "lom" },
+  { "fr": "la femme", "tr": "kadın", "oku": "la fam" },
+  { "fr": "l’enfant", "tr": "çocuk", "oku": "lanfan" },
+  { "fr": "venir", "tr": "gelmek", "oku": "veniir" },
+  { "fr": "être", "tr": "olmak", "oku": "etr" }
 ]
