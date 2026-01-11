@@ -1,0 +1,17 @@
+[
+  { "fr": "le père", "tr": "baba", "oku": "lö per" },
+  { "fr": "la mère", "tr": "anne", "oku": "la mer" },
+  { "fr": "le frère", "tr": "erkek kardeş", "oku": "lö frer" },
+  { "fr": "la sœur", "tr": "kız kardeş", "oku": "la sır" },
+  { "fr": "l’ami", "tr": "arkadaş", "oku": "lami" },
+  { "fr": "merci", "tr": "teşekkürler", "oku": "mersi" },
+  { "fr": "boire", "tr": "içmek", "oku": "bvar" },
+  { "fr": "parler", "tr": "konuşmak", "oku": "parle" },
+  { "fr": "venir", "tr": "gelmek", "oku": "veniir" },
+  { "fr": "bon", "tr": "iyi", "oku": "bon" },
+  { "fr": "mauvais", "tr": "kötü", "oku": "move" },
+  { "fr": "ici", "tr": "burada", "oku": "isi" },
+  { "fr": "là", "tr": "orada", "oku": "la" },
+  { "fr": "toujours", "tr": "her zaman", "oku": "tujur" },
+  { "fr": "au revoir", "tr": "hoşça kal", "oku": "o rıvuar" }
+]
