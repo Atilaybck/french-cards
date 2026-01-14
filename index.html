@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Fransızca Kelime Kartları</title>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap"
+    rel="stylesheet"
+  />
 
   <link rel="stylesheet" href="landing.css" />
   <script src="landing.js" defer></script>
@@ -24,14 +27,24 @@
     </header>
 
     <main>
-      <!-- Sayfa düğmelerinin ekleneceği alan -->
-      <section class="pagination-section">
+      <!-- Sayfa düğmeleri -->
+      <section id="paginationSection" class="pagination-section">
         <div id="pageButtons" class="pagination-grid"></div>
       </section>
 
-      <!-- Kartların geleceği alan -->
+      <!-- Kartlar -->
       <section class="cards-section">
         <div id="cards"></div>
+
+        <!-- ✅ Random mod: sayfa seçme -->
+        <div id="randomControls" class="random-controls" hidden>
+          <button id="randomPagesBtn" class="action-btn">Dosyalar</button>
+
+          <div id="randomPagesPopover" class="pages-popover" hidden>
+            <div id="randomPagesList" class="pages-list"></div>
+            <button id="applyRandomPages" class="pages-apply">Seçimleri Yükle</button>
+          </div>
+        </div>
       </section>
     </main>
   </div>
