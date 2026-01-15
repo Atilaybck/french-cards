@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "q": "Je ___ de Türkiye.",
+    "options": [
+      "vient",
+      "viens",
+      "viennent"
+    ],
+    "answer": "viens"
+  },
+  {
+    "id": 2,
+    "q": "Tu ___ le français.",
+    "options": [
+      "apprends",
+      "apprend",
+      "apprennent"
+    ],
+    "answer": "apprends"
+  },
+  {
+    "id": 3,
+    "q": "Il ___ au travail.",
+    "options": [
+      "va",
+      "vas",
+      "vont"
+    ],
+    "answer": "va"
+  },
+  {
+    "id": 4,
+    "q": "Nous ___ du temps.",
+    "options": [
+      "avons",
+      "avez",
+      "ont"
+    ],
+    "answer": "avons"
+  },
+  {
+    "id": 5,
+    "q": "Vous ___ à la maison.",
+    "options": [
+      "allez",
+      "vas",
+      "va"
+    ],
+    "answer": "allez"
+  },
+  {
+    "id": 6,
+    "q": "Ils ___ fatigués.",
+    "options": [
+      "sont",
+      "êtes",
+      "sommes"
+    ],
+    "answer": "sont"
+  },
+  {
+    "id": 7,
+    "q": "Tu ___ un café.",
+    "options": [
+      "as",
+      "a",
+      "avez"
+    ],
+    "answer": "as"
+  },
+  {
+    "id": 8,
+    "q": "Nous ___ ici.",
+    "options": [
+      "sommes",
+      "êtes",
+      "sont"
+    ],
+    "answer": "sommes"
+  },
+  {
+    "id": 9,
+    "q": "Vous ___ aujourd'hui.",
+    "options": [
+      "travaillez",
+      "travaillent",
+      "travailles"
+    ],
+    "answer": "travaillez"
+  },
+  {
+    "id": 10,
+    "q": "Il ___ beaucoup de temps.",
+    "options": [
+      "a",
+      "as",
+      "avez"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 11,
+    "q": "Aujourd'hui j'apprends le français.",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": "Vrai"
+  },
+  {
+    "id": 12,
+    "q": "Je viens de France.",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": "Vrai"
+  },
+  {
+    "id": 13,
+    "q": "Nous apprend le français.",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": "Faux"
+  },
+  {
+    "id": 14,
+    "q": "Tu es ici.",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": "Vrai"
+  },
+  {
+    "id": 15,
+    "q": "Il ont du temps.",
+    "options": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": "Faux"
+  },
+  {
+    "id": 16,
+    "q": "Je ___ étudiant.",
+    "options": [
+      "suis",
+      "es",
+      "est"
+    ],
+    "answer": "suis"
+  },
+  {
+    "id": 17,
+    "q": "Tu ___ ici.",
+    "options": [
+      "es",
+      "suis",
+      "est"
+    ],
+    "answer": "es"
+  },
+  {
+    "id": 18,
+    "q": "Il ___ beaucoup de travail.",
+    "options": [
+      "a",
+      "as",
+      "ont"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "q": "Nous ___ le français.",
+    "options": [
+      "apprenons",
+      "apprenez",
+      "apprennent"
+    ],
+    "answer": "apprenons"
+  },
+  {
+    "id": 20,
+    "q": "Vous ___ à la maison.",
+    "options": [
+      "êtes",
+      "sommes",
+      "sont"
+    ],
+    "answer": "êtes"
+  },
+  {
+    "id": 21,
+    "q": "Ils ___ à Paris.",
+    "options": [
+      "habitent",
+      "habite",
+      "habites"
+    ],
+    "answer": "habitent"
+  },
+  {
+    "id": 22,
+    "q": "Tu ___ beaucoup aujourd'hui.",
+    "options": [
+      "travailles",
+      "travaille",
+      "travaillez"
+    ],
+    "answer": "travailles"
+  },
+  {
+    "id": 23,
+    "q": "Il ___ volontiers du café.",
+    "options": [
+      "boit",
+      "boivent",
+      "bois"
+    ],
+    "answer": "boit"
+  },
+  {
+    "id": 24,
+    "q": "Nous ___ à l'heure.",
+    "options": [
+      "arrivons",
+      "arrivez",
+      "arrivent"
+    ],
+    "answer": "arrivons"
+  },
+  {
+    "id": 25,
+    "q": "Vous ___ le français.",
+    "options": [
+      "parlez",
+      "parle",
+      "parles"
+    ],
+    "answer": "parlez"
+  },
+  {
+    "id": 26,
+    "q": "J'___ une voiture.",
+    "options": [
+      "ai",
+      "as",
+      "a"
+    ],
+    "answer": "ai"
+  },
+  {
+    "id": 27,
+    "q": "Tu ___ très fatigué.",
+    "options": [
+      "es",
+      "suis",
+      "est"
+    ],
+    "answer": "es"
+  },
+  {
+    "id": 28,
+    "q": "Il ___ à la maison.",
+    "options": [
+      "va",
+      "vont",
+      "vas"
+    ],
+    "answer": "va"
+  },
+  {
+    "id": 29,
+    "q": "Nous ___ du temps.",
+    "options": [
+      "avons",
+      "avons",
+      "ont"
+    ],
+    "answer": "avons"
+  },
+  {
+    "id": 30,
+    "q": "Ils ___ le français.",
+    "options": [
+      "apprennent",
+      "apprenons",
+      "apprenez"
+    ],
+    "answer": "apprennent"
+  }
+]
